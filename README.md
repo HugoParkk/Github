@@ -93,7 +93,7 @@ GitHub 사용법
   
 ## 4. Repository 생성하기
 ----
-<img src="./img/make1.jpg">
+<img src="./img/make1.JPG">
 
 #### 1) Owner : 본인
 #### 2) Repository name : 파일명 작성
@@ -103,9 +103,9 @@ GitHub 사용법
 #### 6) Initialize this repository with a README : (opt) 저장소 설명을 위한 파일 생성 여부
 
 
-<img src="./img/make2.jpg">
+<img src="./img/make2.JPG">
 
-<img src="./img/make3.jpg">
+<img src="./img/make3.JPG">
 
 #### 7) Add file -> Upload files : 작업한 파일 업로드
 #### 8) Drag additional files or click button 'choose your files' : 파일 선택
