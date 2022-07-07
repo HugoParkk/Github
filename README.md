@@ -93,10 +93,7 @@ GitHub 사용법
   
 ## 4. Repository 생성하기
 ----
-<<<<<<< HEAD
 <img src="./img/make1.jpg">
-=======
->>>>>>> 0eb8f6137f17b8720cd00d0768555d079187efed
 
 #### 1) Owner : 본인
 #### 2) Repository name : 파일명 작성
@@ -104,17 +101,13 @@ GitHub 사용법
 #### 4) Public : 저장소 공개 (무료)
 #### 5) Private : 저장소 비공개 (유료)
 #### 6) Initialize this repository with a README : (opt) 저장소 설명을 위한 파일 생성 여부
-<<<<<<< HEAD
 
 
 <img src="./img/make2.jpg">
-#### 7) Add file -> Upload files : 작업한 파일 업로드
 
 <img src="./img/make3.jpg">
 
-=======
 #### 7) Add file -> Upload files : 작업한 파일 업로드
->>>>>>> 0eb8f6137f17b8720cd00d0768555d079187efed
 #### 8) Drag additional files or click button 'choose your files' : 파일 선택
 #### 9) check your uploaded files : 업로드한 파일 확인
 #### 10) commit changes : 해당 파일에 대한 간략 설명 (opt) 및 파일 커밋
